@@ -17,5 +17,7 @@ The goal is to study how convolutional neural networks (CNNs) learn to recognize
 The results support the hypothesis that deeper networks can suffer from overparameterization or regularization effects, especially when the dataset is small and complex. The shallow CNN, being less complex, could better fit the training data.
 
 
+**ARC DATASET** : https://www.kaggle.com/competitions/abstraction-and-reasoning-challenge
+
 
 
